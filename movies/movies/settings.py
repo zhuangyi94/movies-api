@@ -25,7 +25,8 @@ SECRET_KEY = '0bilk9)p&7hh!1b!oib*s2iy58a!10zz(@xoi&tnl33#p+lua#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['movie-api-prod-1.herokuapp.com',
+'movies-api-staging-1.herokuapp.com']
 
 
 # Application definition
